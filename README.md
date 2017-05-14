@@ -1,2 +1,1 @@
-# VR
-Graphics framework that would enable 2D to 3D format conversion
+A simple rendering engine made in octave
